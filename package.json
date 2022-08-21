@@ -1,0 +1,20 @@
+{
+  "name": "crypto-bot",
+  "version": "1.0.0",
+  "description": "bot for trading easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "/run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "itwoshenka"
+  },
+  "keywords": [
+    "trading",
+    "crypto",
+    "stocks"
+  ],
+  "author": "itwoshenka",
+  "license": "ISC"
+}
